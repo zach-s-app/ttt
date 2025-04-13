@@ -1,2 +1,2 @@
 # ttt
-ttt.beta
+ttt.full v1.0
